@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743689891291",
+    "firebase_url": "https://fluttersample-8ce93.firebaseio.com",
+    "project_id": "fluttersample-8ce93",
+    "storage_bucket": "fluttersample-8ce93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743689891291:android:a844d60c11fcec574b0bfe",
+        "android_client_info": {
+          "package_name": "com.example.mutual_fund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743689891291-5680of8e6621ns2sgs1s0v9mro8kcd3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8bza9sAguF3MhxHPRqedBnd9Wtfba-Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743689891291-0ob4bd6p1rnjde4lhqjnqcrn1p842l9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
